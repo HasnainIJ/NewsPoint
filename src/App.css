@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+  
+
+
+
+
+
+
+@media (min-width:20px) {
+  .row{
+    margin-left: 20px;
+    margin-right:20px;
+  }
+  
+}
+
+
+h2 {
+  padding:10px;
+
+}
